@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(188, 180, 197);
+}
+
+.colorfondo {
+    color:rgb(156, 64, 64)
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.carousel-indicators {
+    top: 50px;
+}
+
+.fondo {
+background-color: rgb(133, 127, 127);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.mynav{
+    background-color: #4d4c4d;
+    width: 100vw;
+    z-index: 1;
+
+}
+
+.card {
+    border: none
+}
+
+.imagen {
+width: 300px;
+height: 200px;
+}
